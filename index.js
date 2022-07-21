@@ -28,11 +28,11 @@ function startGame() {
     messageEl.textContent = message;
 }
 
-function newCard() {
+// function newCard() {
 
-    message = "Drawing a new card from the deck!";
-    messageEl.textContent = message;
-    sum += nextCard;
-    startGame();
-}
+//     message = "Drawing a new card from the deck!";
+//     messageEl.textContent = message;
+//     sum += nextCard;
+//     startGame();
+// }
 
