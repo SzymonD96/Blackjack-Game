@@ -34,3 +34,8 @@ button {
     align-items: center;
 }
 
+#player-data {
+    display: flex;
+    justify-content: center;
+}
+
